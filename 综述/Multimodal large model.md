@@ -88,6 +88,8 @@
 - **自己能写**：ALBEF、BLIP（小生成器）。  
 - **借大模型写**：BLIP-2、LLaVA、Flamingo——差别只在“怎么把图交给大模型”：压缩提示、全量 token 还是交叉注意力槽。
 
+---
+
 ViT（Vision Transformer）  
 - 本职：纯视觉骨干网络，功能等价于 ResNet。  
 - 输出：一张图 → 固定长度向量（或一组 patch 向量）。  
